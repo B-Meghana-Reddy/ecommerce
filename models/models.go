@@ -2,7 +2,6 @@ package models
 
 import (
 	"time"
-
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 //These structs decide how your data looks in MongoDB and in API JSON responses.
