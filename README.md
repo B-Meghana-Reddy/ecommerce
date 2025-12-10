@@ -31,5 +31,5 @@ It supports user authentication, product management, cart operations, address ha
 
 ---
 
-## 📁 Project Structure
+
 
